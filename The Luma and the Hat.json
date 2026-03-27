@@ -1,0 +1,10 @@
+{
+  "name": "The Luma and the Hat",
+  "description": "This pack contains OST from Super Mario Galaxy and can be found here: https://youtu.be/MjQk_87LIa0?si=XmedoiU3BCXbrZ-n.",
+  "author": "Transticksions",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
